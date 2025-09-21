@@ -35,15 +35,20 @@
   },
   "name":"TinySeriousGame",
   "resources":[
+    {"id":{"name":"o_StartButton","path":"objects/o_StartButton/o_StartButton.yy",},},
+    {"id":{"name":"Desktop","path":"rooms/Desktop/Desktop.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"sp_alt_screensaver_1","path":"sprites/sp_alt_screensaver_1/sp_alt_screensaver_1.yy",},},
     {"id":{"name":"sp_alt_screensaver_2","path":"sprites/sp_alt_screensaver_2/sp_alt_screensaver_2.yy",},},
     {"id":{"name":"sp_screensaver","path":"sprites/sp_screensaver/sp_screensaver.yy",},},
+    {"id":{"name":"sp_start_screen_decor","path":"sprites/sp_start_screen_decor/sp_start_screen_decor.yy",},},
+    {"id":{"name":"sp_start","path":"sprites/sp_start/sp_start.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
+    {"roomId":{"name":"Desktop","path":"rooms/Desktop/Desktop.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
