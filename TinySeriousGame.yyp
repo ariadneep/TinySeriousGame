@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"o_fade","path":"objects/o_fade/o_fade.yy",},},
     {"id":{"name":"o_Jukebox","path":"objects/o_Jukebox/o_Jukebox.yy",},},
+    {"id":{"name":"o_README","path":"objects/o_README/o_README.yy",},},
     {"id":{"name":"o_StartButton","path":"objects/o_StartButton/o_StartButton.yy",},},
     {"id":{"name":"Desktop","path":"rooms/Desktop/Desktop.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"sp_alt_screensaver_1","path":"sprites/sp_alt_screensaver_1/sp_alt_screensaver_1.yy",},},
     {"id":{"name":"sp_alt_screensaver_2","path":"sprites/sp_alt_screensaver_2/sp_alt_screensaver_2.yy",},},
     {"id":{"name":"sp_black","path":"sprites/sp_black/sp_black.yy",},},
+    {"id":{"name":"sp_file_readme","path":"sprites/sp_file_readme/sp_file_readme.yy",},},
     {"id":{"name":"sp_screensaver","path":"sprites/sp_screensaver/sp_screensaver.yy",},},
     {"id":{"name":"sp_start_screen_decor","path":"sprites/sp_start_screen_decor/sp_start_screen_decor.yy",},},
     {"id":{"name":"sp_start","path":"sprites/sp_start/sp_start.yy",},},
